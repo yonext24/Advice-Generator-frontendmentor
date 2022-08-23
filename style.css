@@ -81,3 +81,11 @@ main {
 .advice {
   margin: 15px 5px;
 }
+.gh {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+}
+.gh a {
+  color: black;
+}
